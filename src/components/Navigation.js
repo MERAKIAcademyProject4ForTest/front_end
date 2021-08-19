@@ -67,7 +67,7 @@ export default function Navigation({ token, setToken }) {
           <ul>
             <li>
               {" "}
-              <Link className="link icon-plus-name-navbar" to="/">
+              <Link className="link icon-plus-name-navbar" to="/front_end">
                 <AiOutlineHome size={27} color={"white"} />
                 <p>Home</p>
               </Link>

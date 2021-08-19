@@ -21,7 +21,7 @@ export default function Login({ setToken, setRole }) {
             localStorage.setItem("role", result.data.role);
             history.push("/dashboard");
           } else {
-            history.push("/");
+            history.push("/front_end");
           }
         }
       })
