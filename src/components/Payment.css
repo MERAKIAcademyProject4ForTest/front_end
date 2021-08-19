@@ -1,0 +1,49 @@
+.h4 {
+    width: 400px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+.payment-input {
+display: flex;
+flex-direction: column;
+
+}
+
+.payment-input div {
+    margin: auto;
+    width: 400px;
+    margin-bottom: 10px;
+}
+
+
+.payment-input input  {
+    width: 400px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: #f2f2f2;
+  }
+
+
+.button {
+    width: 400px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+button {
+    width: 150px;
+    height: 30px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    font-size: 16px;
+    background-color: #2e5d73;
+    color: white;
+}

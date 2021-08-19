@@ -1,0 +1,27 @@
+.our-staff-con {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.our-staff-info {
+    width: 20%;
+    height: 400px;
+    background-color: #e7e9eb
+    ;
+}
+
+
+
+.our-staff-info img {
+    width: 100%;
+    height: 300px;
+
+}
+
+.our-staff-info p {
+    margin-top: 20px;
+    text-align: center;
+    font-size: larger;
+    font-weight: 200;
+}
