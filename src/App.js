@@ -63,7 +63,7 @@ const App = () => {
               path="/privacyandPolicy"
               component={PrivacyandPolicy}
             />
-            <Route exact path="/" component={Home} />
+            <Route exact path="/front_end" component={Home} />
             <Route exact path="/register" component={Register} />
             <Route
               exact
